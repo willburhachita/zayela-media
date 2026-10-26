@@ -5,3 +5,4 @@ Finished, approved posts for the Zayela Instagram (@iamzayela). Buffer pulls eac
 Only final post files live here: Reels, carousel slides, story frames and covers. No app code or customer data.
 
 - `reels/` - Reels, named by planned post date
+- `carousels/` - carousel slides, one folder per post
